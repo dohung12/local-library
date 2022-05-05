@@ -1,4 +1,4 @@
 # local-library
 
 Project in running
-https://dashboard.heroku.com/apps/morning-woodland-70428/settings
+https://morning-woodland-70428.herokuapp.com/catalog
